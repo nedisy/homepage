@@ -10,7 +10,7 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2026
     customText = ""
 
 [dateFormat]
@@ -18,18 +18,18 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+    emoji    = "⛏️"
+    subtitle = "Hello, welcome to my personal blog. If you are looking for my professional profile, see Links."
+    avatar   = "img/avatar.jpg"
 
 [article]
     headingAnchor = false
-    math          = false
+    math          = true
     readingTime   = true
 
     [article.license]
         enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
+        default = "Licensed under CC BY 4.0"
 
 [widgets]
     homepage = [
