@@ -20,7 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = "⛏️"
     subtitle = "Hello, welcome to my personal blog. If you are looking for my professional profile, see Links."
-    avatar   = "img/avatar.jpg"
+    avatar   = "img/favicon.png"
 
 [article]
     headingAnchor = false
